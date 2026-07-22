@@ -1,0 +1,10 @@
+opencv-python
+ultralytics
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+supervision
+jupyter
+plotly
